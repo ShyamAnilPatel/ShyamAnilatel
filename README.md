@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center"  width="1000" >Hi there, I'm Ken 👋</h1>
+<h1 align="center"  width="1000" >Hi there, I'm Shyam 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kpat11">
